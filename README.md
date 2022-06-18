@@ -1,6 +1,7 @@
 # DA1
 
-Ввод []: ```python
+Ввод []:
+```python
 import pandas as pd
 taxi = pd.read_csv('C:/Users/мой компьютер/Downloads/2_taxi_nyc.csv') 
 ```
