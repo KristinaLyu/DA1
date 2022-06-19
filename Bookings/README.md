@@ -1,4 +1,4 @@
-# {Bookings]()
+# [Bookings](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/Bookings/2_bookings.csv)
 Анализ данных о бронировании отелей. Чуть ниже вы можете ознакомиться со списком вопросов и описанием данных. Для удобства задачи разбиты на шаги.
 
  
