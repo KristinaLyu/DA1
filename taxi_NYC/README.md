@@ -90,4 +90,4 @@ def temp_to_celcius(series):
     return (series - 32) * 5 / 9
 temp_to_celcius(taxi.temp)
 ````
-Весь код, с выводом результатов запросов можно посмотреть [тут](https://github.com/KristinaLyu/DF_taxi_from_Karpov_courses/blob/main/DF_taxi.ipynb)
+Весь код, с выводом результатов запросов можно посмотреть [тут](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/taxi_NYC/DF_taxi.ipynb)
