@@ -34,15 +34,15 @@
 import pandas as pd
 taxi = pd.read_csv('C:/Users/мой компьютер/Downloads/2_taxi_nyc.csv') 
 ```
-Датасет сохранили в переменую **taxi**
+Датасет сохранили в переменую `taxi`
 ```python
 taxi.shape
 ```
-Размер датасета **(29101 строка, 14 столбцов)**
+Размер датасета `(29101 строка, 14 столбцов)`
 ```python
 taxi.dtypes
 ```
-Тип, преобладающий в датасете **float64**
+Тип, преобладающий в датасете `float64`
 ```python
 taxi = taxi.rename(columns = {'pickup_dt': 'pickup_dt', 
                    'pickup_month': 'pickup_month', 
@@ -59,7 +59,7 @@ taxi = taxi.rename(columns = {'pickup_dt': 'pickup_dt',
                    'pcp 24': 'pcp_24', 
                    'sd': 'sd'})
 ```
-В названиях столбцов **pcp 01, pcp 06, pcp 24** встречался пробел, внесли изменения для удобства дальнейшей работы и сохранили изменения в исходном датафрэйме.
+В названиях столбцов `pcp 01, pcp 06, pcp 24` встречался пробел, внесли изменения для удобства дальнейшей работы и сохранили изменения в исходном датафрэйме.
 ```python
 taxi.borough.value_counts()
 ```
@@ -76,7 +76,7 @@ taxi.groupby('borough')\
 ```python
 taxi.groupby('borough').pickups.sum()
 ```
-Далее, выяснили район, из кторого совершалось минимальное количество поездок - **EWR**
+Далее, выяснили район, из кторого совершалось минимальное количество поездок - `EWR`
 ```python
 min_pickups = taxi.groupby('borough').pickups.sum().idxmin()
 ```
