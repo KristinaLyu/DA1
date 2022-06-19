@@ -1,4 +1,4 @@
-# [Данные](https://github.com/KristinaLyu/DF_taxi_from_Karpov_courses/blob/main/2_taxi_nyc.csv) о поездках на такси в Нью-Йорке
+# [Данные](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/taxi_NYC/2_taxi_nyc.csv) о поездках на такси в Нью-Йорке
 ### в которых также имеется информация о погодных условиях и выходных днях
 
 *pickup_dt* – период с точностью до часа
