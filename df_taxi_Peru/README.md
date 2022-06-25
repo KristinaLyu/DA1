@@ -1,5 +1,7 @@
 # [df_taxi_Peru](https://disk.yandex.ru/d/5OUzhWvyi0n1DA)
 
+### [Анализ данных](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/df_taxi_Peru/df_taxi_Peru.ipynb)
+
 
 Вернемся к данным по поездкам на такси. На этот раз – из Перу, с рейтингами водителей, пассажиров, координатами, и парой других деталей.
 
