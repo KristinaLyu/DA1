@@ -1,5 +1,5 @@
 # [bookings](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/Bookings/2_bookings.csv)
-Анализ [данных](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/Bookings/2_bookings.csv) о бронировании отелей. Чуть ниже можно ознакомиться со списком вопросов и описанием данных. Для удобства задачи разбиты на шаги.
+[Анализ данных](https://github.com/KristinaLyu/Tasks_from_Karpov_courses/blob/main/Bookings/bookings.ipynb) о бронировании отелей. Чуть ниже можно ознакомиться со списком вопросов и описанием данных. Для удобства задачи разбиты на шаги.
 
  
 
